@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_Name,Product,Category,Region,Quantity,Cost_Price,Sales,Profit,Sales_Executive,Segment,Team
+ORD0001,2025-09-13,Sneha,Chair,Furniture,South,1,2151,2417,266,Ravi,Corporate,Gamma
+ORD0002,2025-03-10,Divya,Phone,Electronics,South,7,34045,37523,3478,Vignesh,Consumer,Delta
+ORD0003,2025-09-07,Rahul,Chair,Furniture,West,8,42079,52504,10425,Kiran,Consumer,Beta
+ORD0004,2025-10-22,Rahul,Phone,Electronics,West,9,41525,50355,8830,Divya,Consumer,Alpha
+ORD0005,2025-01-11,Ajay,Table,Furniture,West,9,22072,25575,3503,Suresh,Consumer,Gamma
+ORD0006,2025-07-02,Divya,Chair,Furniture,South,10,14475,18690,4215,Vignesh,Home Office,Delta
+ORD0007,2025-08-25,Karthik,Monitor,Electronics,East,4,25019,26341,1322,Vignesh,Consumer,Gamma
+ORD0008,2025-06-16,Sneha,Phone,Electronics,East,4,36994,38070,1076,Ravi,Consumer,Gamma
+ORD0009,2025-03-05,Meena,Phone,Electronics,North,1,18430,25313,6883,Suresh,Home Office,Gamma
+ORD0010,2025-03-04,Karthik,Chair,Furniture,East,10,47427,65990,18563,Kiran,Home Office,Delta
+ORD0011,2025-03-16,Karthik,Chair,Furniture,East,7,9841,11731,1890,Kiran,Consumer,Delta
+ORD0012,2025-04-18,Asha,Printer,Office,South,2,30576,43102,12526,Ravi,Corporate,Gamma
+ORD0013,2025-10-21,Rahul,Printer,Office,North,9,27963,29546,1583,Kiran,Consumer,Gamma
+ORD0014,2025-03-14,Priya,Printer,Office,West,1,40376,45170,4794,Vignesh,Corporate,Delta
+ORD0015,2025-12-06,Asha,Printer,Office,South,10,46026,57698,11672,Kiran,Corporate,Gamma
+ORD0016,2025-05-29,Vijay,Notebook,Office,West,1,6044,8571,2527,Ravi,Corporate,Beta
+ORD0017,2025-11-10,Priya,Laptop,Electronics,South,1,37182,49316,12134,Divya,Corporate,Beta
+ORD0018,2025-09-17,Ajay,Table,Furniture,East,4,49239,70435,21196,Vignesh,Corporate,Delta
+ORD0019,2025-06-15,Vijay,Table,Furniture,South,5,28177,40765,12588,Vignesh,Home Office,Delta
+ORD0020,2025-11-02,Priya,Notebook,Office,South,2,35117,50975,15858,Kiran,Consumer,Gamma
+ORD0021,2025-03-22,Vijay,Printer,Office,East,5,30054,37672,7618,Ravi,Consumer,Delta
+ORD0022,2025-08-13,Ajay,Notebook,Office,West,8,12506,18741,6235,Kiran,Home Office,Gamma
+ORD0023,2025-07-16,Rahul,Laptop,Electronics,East,8,34378,45423,11045,Kiran,Corporate,Alpha
+ORD0024,2025-06-11,Arun,Printer,Office,North,4,23871,32826,8955,Divya,Home Office,Beta
+ORD0025,2025-10-23,Rahul,Chair,Furniture,North,2,45936,49681,3745,Vignesh,Corporate,Alpha
+ORD0026,2025-05-06,Ajay,Table,Furniture,South,1,38250,46715,8465,Vignesh,Home Office,Delta
+ORD0027,2025-01-19,Priya,Printer,Office,North,1,42268,45315,3047,Divya,Consumer,Delta
+ORD0028,2025-01-11,Meena,Laptop,Electronics,South,2,14492,18503,4011,Suresh,Consumer,Beta
+ORD0029,2025-01-20,Sneha,Laptop,Electronics,North,5,21766,25331,3565,Ravi,Corporate,Delta
+ORD0030,2025-07-16,Karthik,Notebook,Office,East,4,44513,48503,3990,Kiran,Corporate,Beta
+ORD0031,2025-06-07,Sneha,Table,Furniture,East,7,17463,24388,6925,Vignesh,Corporate,Beta
+ORD0032,2025-12-08,Asha,Laptop,Electronics,West,5,32653,38528,5875,Divya,Home Office,Beta
+ORD0033,2025-11-19,Arun,Chair,Furniture,North,5,29076,41164,12088,Kiran,Home Office,Delta
+ORD0034,2025-01-10,Meena,Laptop,Electronics,North,3,27999,35100,7101,Vignesh,Corporate,Delta
+ORD0035,2025-04-30,Rahul,Notebook,Office,East,5,26221,28081,1860,Ravi,Home Office,Beta
+ORD0036,2025-07-04,Karthik,Monitor,Electronics,North,6,33574,34447,873,Kiran,Consumer,Delta
+ORD0037,2025-12-21,Karthik,Phone,Electronics,North,7,19029,23949,4920,Suresh,Consumer,Beta
+ORD0038,2025-12-03,Rahul,Monitor,Electronics,West,10,22283,31352,9069,Divya,Corporate,Gamma
+ORD0039,2025-12-17,Meena,Laptop,Electronics,West,7,4719,5414,695,Divya,Consumer,Beta
+ORD0040,2025-05-13,Ajay,Phone,Electronics,West,1,9181,11791,2610,Divya,Home Office,Gamma
+ORD0041,2025-07-23,Priya,Chair,Furniture,South,1,2042,2313,271,Divya,Consumer,Delta
+ORD0042,2025-07-31,Divya,Laptop,Electronics,South,7,47474,56145,8671,Vignesh,Home Office,Delta
+ORD0043,2025-07-13,Sneha,Notebook,Office,South,8,39845,45421,5576,Vignesh,Corporate,Delta
+ORD0044,2025-05-02,Karthik,Printer,Office,North,8,43153,48420,5267,Divya,Consumer,Alpha
+ORD0045,2025-12-20,Meena,Monitor,Electronics,East,7,7039,7680,641,Ravi,Consumer,Alpha
+ORD0046,2025-12-06,Priya,Table,Furniture,East,3,14131,16586,2455,Divya,Home Office,Gamma
+ORD0047,2025-02-04,Rahul,Table,Furniture,East,7,8726,11066,2340,Vignesh,Consumer,Delta
+ORD0048,2025-12-24,Meena,Table,Furniture,West,10,44909,47376,2467,Kiran,Corporate,Gamma
+ORD0049,2025-05-12,Vijay,Monitor,Electronics,South,10,16768,23761,6993,Ravi,Consumer,Beta
+ORD0050,2025-05-06,Rahul,Laptop,Electronics,West,1,34171,37500,3329,Suresh,Home Office,Delta
+ORD0051,2025-07-17,Vijay,Printer,Office,North,7,46834,54898,8064,Ravi,Home Office,Gamma
+ORD0052,2025-03-01,Meena,Laptop,Electronics,South,7,38653,50329,11676,Vignesh,Corporate,Alpha
+ORD0053,2025-02-24,Divya,Phone,Electronics,West,5,35555,46616,11061,Vignesh,Corporate,Alpha
+ORD0054,2025-06-05,Meena,Monitor,Electronics,North,5,23768,28063,4295,Vignesh,Consumer,Delta
+ORD0055,2025-10-17,Karthik,Printer,Office,West,6,5353,6111,758,Vignesh,Home Office,Delta
+ORD0056,2025-05-06,Meena,Phone,Electronics,West,6,46628,51575,4947,Vignesh,Corporate,Gamma
+ORD0057,2025-07-02,Meena,Notebook,Office,North,1,1069,1200,131,Divya,Corporate,Delta
+ORD0058,2025-10-01,Meena,Laptop,Electronics,South,4,49369,71257,21888,Divya,Consumer,Gamma
+ORD0059,2025-05-20,Priya,Chair,Furniture,North,7,41437,42552,1115,Ravi,Home Office,Alpha
+ORD0060,2025-04-22,Ajay,Laptop,Electronics,North,4,27442,33937,6495,Divya,Consumer,Beta
+ORD0061,2025-11-09,Ajay,Notebook,Office,South,9,27126,35425,8299,Ravi,Consumer,Delta
+ORD0062,2025-10-14,Meena,Table,Furniture,North,5,38090,41038,2948,Ravi,Consumer,Alpha
+ORD0063,2025-12-20,Asha,Notebook,Office,East,3,24820,31150,6330,Ravi,Corporate,Beta
+ORD0064,2025-12-25,Ajay,Laptop,Electronics,East,10,21026,27922,6896,Suresh,Consumer,Alpha
+ORD0065,2025-10-27,Karthik,Phone,Electronics,West,5,46456,50036,3580,Vignesh,Home Office,Beta
+ORD0066,2025-07-30,Vijay,Phone,Electronics,East,5,33897,46312,12415,Divya,Corporate,Alpha
+ORD0067,2025-02-22,Ajay,Printer,Office,East,1,15840,21190,5350,Suresh,Corporate,Alpha
+ORD0068,2025-06-26,Meena,Notebook,Office,South,4,21469,26952,5483,Kiran,Home Office,Delta
+ORD0069,2025-09-11,Rahul,Laptop,Electronics,East,1,12820,18674,5854,Kiran,Home Office,Gamma
+ORD0070,2025-09-11,Asha,Notebook,Office,North,1,35692,42344,6652,Ravi,Home Office,Delta
+ORD0071,2025-08-12,Rahul,Printer,Office,West,6,19994,21532,1538,Vignesh,Consumer,Delta
+ORD0072,2025-08-15,Meena,Phone,Electronics,South,9,48468,69719,21251,Kiran,Consumer,Gamma
+ORD0073,2025-03-27,Meena,Monitor,Electronics,East,7,46727,60907,14180,Divya,Corporate,Gamma
+ORD0074,2025-01-18,Rahul,Laptop,Electronics,South,6,44594,49952,5358,Divya,Corporate,Delta
+ORD0075,2025-12-11,Arun,Chair,Furniture,South,1,20414,24278,3864,Suresh,Corporate,Delta
+ORD0076,2025-01-19,Divya,Phone,Electronics,South,3,15766,16704,938,Vignesh,Home Office,Alpha
+ORD0077,2025-03-10,Divya,Monitor,Electronics,East,8,11807,14620,2813,Vignesh,Corporate,Alpha
+ORD0078,2025-12-28,Ajay,Monitor,Electronics,West,3,21396,26544,5148,Vignesh,Consumer,Gamma
+ORD0079,2025-02-22,Divya,Phone,Electronics,South,5,19844,20479,635,Vignesh,Consumer,Alpha
+ORD0080,2025-07-11,Ajay,Monitor,Electronics,North,1,19328,28107,8779,Kiran,Corporate,Delta
+ORD0081,2025-07-06,Meena,Monitor,Electronics,North,7,25743,31882,6139,Vignesh,Home Office,Gamma
+ORD0082,2025-08-04,Karthik,Monitor,Electronics,West,1,34679,35063,384,Ravi,Corporate,Gamma
+ORD0083,2025-02-25,Vijay,Monitor,Electronics,North,3,3553,4205,652,Vignesh,Consumer,Alpha
+ORD0084,2025-12-22,Karthik,Chair,Furniture,East,4,35192,51216,16024,Suresh,Consumer,Alpha
+ORD0085,2025-09-30,Karthik,Chair,Furniture,East,3,40700,49395,8695,Kiran,Home Office,Delta
+ORD0086,2025-12-02,Meena,Chair,Furniture,West,8,5164,5954,790,Suresh,Consumer,Beta
+ORD0087,2025-05-02,Ajay,Laptop,Electronics,East,4,774,902,128,Kiran,Corporate,Alpha
+ORD0088,2025-06-08,Asha,Phone,Electronics,East,9,46294,48268,1974,Ravi,Consumer,Delta
+ORD0089,2025-12-21,Priya,Chair,Furniture,North,6,7197,10548,3351,Ravi,Consumer,Delta
+ORD0090,2025-02-15,Meena,Table,Furniture,North,8,11266,15482,4216,Kiran,Consumer,Beta
+ORD0091,2025-03-14,Priya,Notebook,Office,East,10,24945,31876,6931,Ravi,Home Office,Beta
+ORD0092,2025-09-04,Priya,Laptop,Electronics,East,2,45320,53181,7861,Suresh,Home Office,Beta
+ORD0093,2025-01-30,Meena,Printer,Office,East,2,12551,18373,5822,Divya,Home Office,Beta
+ORD0094,2025-12-17,Meena,Phone,Electronics,East,5,40982,47721,6739,Vignesh,Home Office,Alpha
+ORD0095,2025-01-15,Karthik,Laptop,Electronics,North,3,42911,46178,3267,Suresh,Home Office,Beta
+ORD0096,2025-04-30,Divya,Printer,Office,East,6,5304,5552,248,Ravi,Consumer,Gamma
+ORD0097,2025-05-24,Asha,Table,Furniture,North,10,31574,33230,1656,Vignesh,Corporate,Alpha
+ORD0098,2025-12-18,Asha,Laptop,Electronics,East,8,41406,54912,13506,Suresh,Consumer,Alpha
+ORD0099,2025-04-24,Vijay,Notebook,Office,North,1,33495,35899,2404,Kiran,Consumer,Gamma
+ORD0100,2025-07-25,Karthik,Monitor,Electronics,North,6,31490,33850,2360,Vignesh,Corporate,Delta
+ORD0101,2025-04-10,Arun,Laptop,Electronics,North,8,23590,34070,10480,Ravi,Consumer,Alpha
+ORD0102,2025-06-14,Divya,Printer,Office,West,9,49374,50667,1293,Vignesh,Home Office,Delta
+ORD0103,2025-08-07,Rahul,Printer,Office,West,5,41472,61493,20021,Ravi,Corporate,Alpha
+ORD0104,2025-11-06,Priya,Monitor,Electronics,East,2,46357,62339,15982,Vignesh,Corporate,Gamma
+ORD0105,2025-08-05,Divya,Laptop,Electronics,South,9,33389,46124,12735,Vignesh,Corporate,Gamma
+ORD0106,2025-09-12,Karthik,Monitor,Electronics,East,4,42548,62411,19863,Vignesh,Consumer,Alpha
+ORD0107,2025-05-03,Karthik,Phone,Electronics,West,4,17503,25943,8440,Suresh,Home Office,Gamma
+ORD0108,2025-04-15,Priya,Table,Furniture,East,9,26880,38921,12041,Divya,Consumer,Gamma
+ORD0109,2025-10-23,Divya,Phone,Electronics,West,10,24600,36066,11466,Vignesh,Corporate,Delta
+ORD0110,2025-08-03,Karthik,Laptop,Electronics,East,8,3722,4531,809,Ravi,Corporate,Gamma
+ORD0111,2025-12-17,Divya,Table,Furniture,West,5,6171,8547,2376,Suresh,Corporate,Gamma
+ORD0112,2025-06-18,Sneha,Notebook,Office,West,8,26850,30402,3552,Vignesh,Consumer,Delta
+ORD0113,2025-07-24,Arun,Printer,Office,East,10,2875,3945,1070,Ravi,Consumer,Gamma
+ORD0114,2025-09-20,Rahul,Notebook,Office,South,5,27955,37001,9046,Ravi,Home Office,Gamma
+ORD0115,2025-11-01,Asha,Notebook,Office,West,10,24867,30389,5522,Kiran,Home Office,Beta
+ORD0116,2025-11-22,Arun,Table,Furniture,West,9,15987,17569,1582,Divya,Home Office,Alpha
+ORD0117,2025-07-17,Meena,Monitor,Electronics,South,9,47323,60391,13068,Vignesh,Consumer,Beta
+ORD0118,2025-08-28,Ajay,Phone,Electronics,West,7,33248,42626,9378,Suresh,Consumer,Alpha
+ORD0119,2025-07-24,Vijay,Phone,Electronics,South,8,18930,23461,4531,Divya,Corporate,Alpha
+ORD0120,2025-12-31,Meena,Laptop,Electronics,North,2,43123,52249,9126,Suresh,Home Office,Alpha
+ORD0121,2025-11-16,Rahul,Monitor,Electronics,South,1,12907,15289,2382,Suresh,Home Office,Beta
+ORD0122,2025-11-29,Priya,Phone,Electronics,East,4,23447,34665,11218,Divya,Corporate,Beta
+ORD0123,2025-01-24,Divya,Printer,Office,South,9,23043,27265,4222,Divya,Corporate,Beta
+ORD0124,2025-05-01,Divya,Notebook,Office,South,4,37269,47566,10297,Divya,Home Office,Gamma
+ORD0125,2025-09-29,Priya,Chair,Furniture,West,1,14017,20630,6613,Ravi,Corporate,Beta
+ORD0126,2025-03-06,Vijay,Monitor,Electronics,East,3,4134,5805,1671,Vignesh,Consumer,Delta
+ORD0127,2025-04-15,Sneha,Table,Furniture,East,9,21476,29030,7554,Suresh,Corporate,Alpha
+ORD0128,2025-06-18,Arun,Phone,Electronics,South,4,20745,21112,367,Suresh,Consumer,Beta
+ORD0129,2025-11-23,Vijay,Notebook,Office,West,3,49369,55367,5998,Ravi,Consumer,Beta
+ORD0130,2025-05-31,Rahul,Phone,Electronics,South,1,14903,20628,5725,Vignesh,Consumer,Delta
+ORD0131,2025-08-01,Vijay,Phone,Electronics,South,2,11060,12631,1571,Divya,Consumer,Alpha
+ORD0132,2025-03-30,Priya,Laptop,Electronics,West,1,2061,2872,811,Divya,Home Office,Delta
+ORD0133,2025-05-17,Arun,Table,Furniture,North,6,43889,60323,16434,Ravi,Consumer,Gamma
+ORD0134,2025-11-01,Arun,Monitor,Electronics,West,5,43509,60913,17404,Ravi,Consumer,Alpha
+ORD0135,2025-11-21,Divya,Printer,Office,North,7,41541,44803,3262,Suresh,Home Office,Alpha
+ORD0136,2025-06-17,Priya,Printer,Office,West,8,32489,43670,11181,Ravi,Home Office,Alpha
+ORD0137,2025-02-17,Divya,Phone,Electronics,North,10,9366,12576,3210,Ravi,Home Office,Delta
+ORD0138,2025-09-05,Vijay,Notebook,Office,South,2,49770,71731,21961,Vignesh,Consumer,Delta
+ORD0139,2025-07-01,Sneha,Notebook,Office,West,6,17366,20078,2712,Kiran,Consumer,Beta
+ORD0140,2025-09-17,Arun,Printer,Office,West,8,19487,26942,7455,Suresh,Consumer,Alpha
+ORD0141,2025-11-04,Meena,Table,Furniture,North,8,21061,27326,6265,Suresh,Home Office,Delta
+ORD0142,2025-06-19,Rahul,Laptop,Electronics,South,4,43498,58085,14587,Divya,Corporate,Delta
+ORD0143,2025-10-11,Priya,Laptop,Electronics,North,5,18009,21272,3263,Vignesh,Corporate,Gamma
+ORD0144,2025-01-07,Arun,Notebook,Office,North,6,44828,56172,11344,Vignesh,Corporate,Beta
+ORD0145,2025-01-23,Ajay,Printer,Office,West,3,45105,63673,18568,Ravi,Home Office,Gamma
+ORD0146,2025-07-06,Rahul,Monitor,Electronics,East,4,22609,33529,10920,Vignesh,Consumer,Delta
+ORD0147,2025-08-20,Priya,Printer,Office,East,2,11322,14542,3220,Divya,Consumer,Gamma
+ORD0148,2025-11-19,Rahul,Notebook,Office,West,4,779,993,214,Kiran,Home Office,Gamma
+ORD0149,2025-05-12,Rahul,Table,Furniture,West,2,37419,43694,6275,Suresh,Corporate,Alpha
+ORD0150,2025-03-25,Karthik,Laptop,Electronics,East,7,2720,4017,1297,Divya,Corporate,Alpha
+ORD0151,2025-03-11,Meena,Printer,Office,East,1,22235,30575,8340,Divya,Home Office,Beta
+ORD0152,2025-01-29,Karthik,Notebook,Office,North,3,40708,59467,18759,Ravi,Home Office,Delta
+ORD0153,2025-03-18,Meena,Monitor,Electronics,West,3,25280,30470,5190,Divya,Consumer,Beta
+ORD0154,2025-02-24,Vijay,Table,Furniture,South,4,7348,10991,3643,Kiran,Corporate,Gamma
+ORD0155,2025-09-07,Priya,Laptop,Electronics,East,8,42858,62541,19683,Divya,Home Office,Beta
+ORD0156,2025-12-29,Vijay,Laptop,Electronics,North,2,17626,20328,2702,Divya,Home Office,Delta
+ORD0157,2025-07-30,Sneha,Printer,Office,South,8,13279,13977,698,Vignesh,Home Office,Delta
+ORD0158,2025-10-25,Karthik,Chair,Furniture,South,10,44574,65337,20763,Vignesh,Corporate,Alpha
+ORD0159,2025-07-02,Rahul,Notebook,Office,South,1,18642,21941,3299,Suresh,Corporate,Beta
+ORD0160,2025-08-02,Sneha,Notebook,Office,West,3,16933,22314,5381,Kiran,Home Office,Alpha
+ORD0161,2025-07-29,Vijay,Printer,Office,East,9,13964,17373,3409,Ravi,Corporate,Delta
+ORD0162,2025-08-03,Arun,Notebook,Office,North,2,9201,12085,2884,Suresh,Consumer,Alpha
+ORD0163,2025-08-03,Sneha,Chair,Furniture,South,2,23875,35334,11459,Vignesh,Home Office,Beta
+ORD0164,2025-07-27,Rahul,Chair,Furniture,East,4,1210,1449,239,Suresh,Corporate,Alpha
+ORD0165,2025-01-12,Karthik,Monitor,Electronics,South,5,20040,26683,6643,Kiran,Home Office,Beta
+ORD0166,2025-02-07,Divya,Laptop,Electronics,South,4,18234,26282,8048,Kiran,Corporate,Gamma
+ORD0167,2025-12-14,Ajay,Table,Furniture,North,5,49306,64483,15177,Ravi,Corporate,Gamma
+ORD0168,2025-03-09,Divya,Notebook,Office,North,4,6250,7658,1408,Ravi,Home Office,Gamma
+ORD0169,2025-07-02,Divya,Notebook,Office,West,4,7472,8676,1204,Divya,Corporate,Alpha
+ORD0170,2025-01-23,Vijay,Notebook,Office,West,8,31956,41142,9186,Kiran,Home Office,Gamma
+ORD0171,2025-08-01,Sneha,Phone,Electronics,East,3,17478,17620,142,Divya,Consumer,Beta
+ORD0172,2025-03-26,Karthik,Notebook,Office,North,2,10046,10831,785,Kiran,Home Office,Alpha
+ORD0173,2025-01-17,Sneha,Chair,Furniture,West,3,33507,37934,4427,Ravi,Home Office,Gamma
+ORD0174,2025-05-12,Ajay,Chair,Furniture,West,5,26229,36408,10179,Vignesh,Home Office,Beta
+ORD0175,2025-08-26,Ajay,Notebook,Office,East,3,11764,15118,3354,Suresh,Corporate,Beta
+ORD0176,2025-03-26,Vijay,Printer,Office,West,1,36890,45375,8485,Ravi,Consumer,Alpha
+ORD0177,2025-02-23,Divya,Chair,Furniture,North,6,37384,46530,9146,Suresh,Corporate,Delta
+ORD0178,2025-12-22,Priya,Notebook,Office,South,2,14825,16518,1693,Kiran,Corporate,Alpha
+ORD0179,2025-05-27,Karthik,Chair,Furniture,West,7,12643,17510,4867,Vignesh,Consumer,Delta
+ORD0180,2025-12-16,Divya,Phone,Electronics,South,4,46719,54103,7384,Vignesh,Consumer,Alpha
+ORD0181,2025-03-18,Priya,Monitor,Electronics,South,5,35223,50693,15470,Vignesh,Home Office,Alpha
+ORD0182,2025-01-19,Ajay,Laptop,Electronics,North,5,43739,56448,12709,Divya,Corporate,Delta
+ORD0183,2025-04-21,Sneha,Notebook,Office,North,5,46417,53170,6753,Ravi,Consumer,Delta
+ORD0184,2025-12-13,Sneha,Phone,Electronics,South,9,18172,21207,3035,Kiran,Consumer,Delta
+ORD0185,2025-01-27,Priya,Chair,Furniture,East,9,11998,13055,1057,Suresh,Consumer,Gamma
+ORD0186,2025-11-05,Vijay,Chair,Furniture,South,5,34247,45359,11112,Kiran,Home Office,Gamma
+ORD0187,2025-09-13,Divya,Laptop,Electronics,West,10,1545,1850,305,Divya,Corporate,Delta
+ORD0188,2025-03-25,Divya,Table,Furniture,West,10,37646,53783,16137,Vignesh,Consumer,Alpha
+ORD0189,2025-11-24,Priya,Printer,Office,North,6,42645,54279,11634,Kiran,Corporate,Alpha
+ORD0190,2025-12-10,Arun,Table,Furniture,East,2,6761,9260,2499,Kiran,Consumer,Alpha
+ORD0191,2025-07-14,Priya,Monitor,Electronics,East,8,10640,12538,1898,Vignesh,Corporate,Beta
+ORD0192,2025-11-07,Meena,Phone,Electronics,East,1,18002,21705,3703,Divya,Consumer,Gamma
+ORD0193,2025-01-12,Ajay,Monitor,Electronics,East,2,29495,40214,10719,Kiran,Consumer,Delta
+ORD0194,2025-11-08,Asha,Chair,Furniture,South,10,3963,4505,542,Vignesh,Consumer,Gamma
+ORD0195,2025-03-08,Vijay,Notebook,Office,North,9,14347,19820,5473,Suresh,Home Office,Gamma
+ORD0196,2025-02-10,Vijay,Table,Furniture,North,1,47405,69708,22303,Ravi,Corporate,Delta
+ORD0197,2025-07-19,Asha,Chair,Furniture,West,5,17734,20351,2617,Kiran,Consumer,Delta
+ORD0198,2025-06-24,Arun,Printer,Office,North,2,12627,18801,6174,Suresh,Consumer,Delta
+ORD0199,2025-05-12,Asha,Chair,Furniture,East,1,16113,16235,122,Divya,Corporate,Delta
+ORD0200,2025-01-26,Asha,Chair,Furniture,South,8,8347,11706,3359,Divya,Home Office,Beta
+ORD0201,2025-03-03,Sneha,Phone,Electronics,East,10,14901,18735,3834,Ravi,Consumer,Alpha
+ORD0202,2025-08-05,Asha,Notebook,Office,East,2,47875,55400,7525,Vignesh,Home Office,Alpha
+ORD0203,2025-03-30,Priya,Printer,Office,South,2,46627,63327,16700,Ravi,Consumer,Alpha
+ORD0204,2025-04-01,Arun,Notebook,Office,South,1,5719,8330,2611,Divya,Home Office,Gamma
+ORD0205,2025-10-23,Karthik,Notebook,Office,East,4,29243,35226,5983,Ravi,Consumer,Beta
+ORD0206,2025-10-12,Arun,Phone,Electronics,South,2,27895,33477,5582,Kiran,Corporate,Alpha
+ORD0207,2025-03-14,Karthik,Notebook,Office,West,1,26229,31047,4818,Divya,Consumer,Delta
+ORD0208,2025-12-29,Sneha,Chair,Furniture,East,1,12838,16403,3565,Vignesh,Consumer,Alpha
+ORD0209,2025-04-30,Vijay,Phone,Electronics,East,10,35894,47505,11611,Kiran,Corporate,Delta
+ORD0210,2025-12-23,Divya,Printer,Office,West,6,48203,54185,5982,Suresh,Consumer,Beta
+ORD0211,2025-09-10,Vijay,Monitor,Electronics,North,9,1290,1711,421,Vignesh,Home Office,Beta
+ORD0212,2025-11-09,Divya,Monitor,Electronics,West,10,33413,47988,14575,Kiran,Consumer,Alpha
+ORD0213,2025-11-30,Arun,Notebook,Office,West,6,30544,40466,9922,Divya,Consumer,Gamma
+ORD0214,2025-08-07,Priya,Monitor,Electronics,West,10,20466,24746,4280,Divya,Home Office,Beta
+ORD0215,2025-04-24,Priya,Monitor,Electronics,East,8,18668,23736,5068,Vignesh,Corporate,Delta
+ORD0216,2025-09-28,Arun,Printer,Office,North,10,4208,5183,975,Ravi,Consumer,Alpha
+ORD0217,2025-08-19,Sneha,Chair,Furniture,North,10,20731,23415,2684,Ravi,Home Office,Gamma
+ORD0218,2025-04-18,Priya,Notebook,Office,South,4,25290,29598,4308,Ravi,Home Office,Delta
+ORD0219,2025-04-09,Vijay,Notebook,Office,East,7,10902,11097,195,Suresh,Home Office,Alpha
+ORD0220,2025-05-05,Ajay,Notebook,Office,West,8,40867,46410,5543,Divya,Home Office,Delta
+ORD0221,2025-09-04,Asha,Printer,Office,South,6,13424,17728,4304,Vignesh,Home Office,Gamma
+ORD0222,2025-02-07,Priya,Table,Furniture,North,7,11774,17330,5556,Vignesh,Consumer,Alpha
+ORD0223,2025-03-25,Sneha,Chair,Furniture,North,10,32805,48103,15298,Divya,Corporate,Gamma
+ORD0224,2025-07-16,Divya,Laptop,Electronics,East,4,19479,24552,5073,Suresh,Consumer,Gamma
+ORD0225,2025-10-12,Meena,Printer,Office,South,1,24821,27976,3155,Suresh,Consumer,Alpha
+ORD0226,2025-07-26,Divya,Phone,Electronics,South,9,9752,14020,4268,Suresh,Home Office,Delta
+ORD0227,2025-10-28,Sneha,Monitor,Electronics,South,6,40280,55392,15112,Vignesh,Home Office,Beta
+ORD0228,2025-02-28,Meena,Printer,Office,West,5,35837,49082,13245,Suresh,Home Office,Delta
+ORD0229,2025-11-03,Karthik,Phone,Electronics,East,5,40089,41221,1132,Divya,Home Office,Delta
+ORD0230,2025-02-16,Ajay,Notebook,Office,South,8,43126,50408,7282,Kiran,Corporate,Beta
+ORD0231,2025-05-05,Sneha,Monitor,Electronics,North,5,31057,35176,4119,Suresh,Consumer,Delta
+ORD0232,2025-11-24,Asha,Phone,Electronics,North,3,15227,18848,3621,Vignesh,Home Office,Gamma
+ORD0233,2025-08-07,Divya,Laptop,Electronics,South,10,46683,48432,1749,Kiran,Corporate,Gamma
+ORD0234,2025-07-15,Arun,Notebook,Office,North,2,12860,16407,3547,Suresh,Home Office,Beta
+ORD0235,2025-12-23,Priya,Notebook,Office,East,2,36127,40769,4642,Suresh,Consumer,Delta
+ORD0236,2025-06-11,Vijay,Notebook,Office,East,1,14034,17890,3856,Kiran,Corporate,Alpha
+ORD0237,2025-01-04,Asha,Monitor,Electronics,West,10,19383,24764,5381,Suresh,Corporate,Beta
+ORD0238,2025-02-05,Meena,Phone,Electronics,South,7,12580,12908,328,Kiran,Consumer,Gamma
+ORD0239,2025-03-11,Karthik,Laptop,Electronics,West,9,21369,31397,10028,Kiran,Consumer,Gamma
+ORD0240,2025-05-07,Meena,Monitor,Electronics,South,5,47980,49224,1244,Kiran,Corporate,Delta
+ORD0241,2025-05-22,Divya,Chair,Furniture,South,5,47165,58106,10941,Divya,Corporate,Beta
+ORD0242,2025-03-27,Vijay,Table,Furniture,West,9,45000,65203,20203,Ravi,Consumer,Delta
+ORD0243,2025-09-19,Sneha,Table,Furniture,East,7,15098,16662,1564,Suresh,Home Office,Gamma
+ORD0244,2025-05-04,Arun,Notebook,Office,West,5,35688,52828,17140,Divya,Corporate,Beta
+ORD0245,2025-05-05,Meena,Phone,Electronics,South,4,49693,67127,17434,Divya,Home Office,Gamma
+ORD0246,2025-09-04,Arun,Table,Furniture,West,8,48361,71628,23267,Kiran,Consumer,Alpha
+ORD0247,2025-03-27,Arun,Monitor,Electronics,West,1,19656,20732,1076,Divya,Home Office,Beta
+ORD0248,2025-08-30,Asha,Chair,Furniture,South,8,6573,7043,470,Ravi,Home Office,Alpha
+ORD0249,2025-12-18,Meena,Printer,Office,East,10,30476,41747,11271,Kiran,Consumer,Gamma
+ORD0250,2025-08-18,Divya,Monitor,Electronics,North,10,17530,19700,2170,Vignesh,Consumer,Gamma
+ORD0251,2025-02-13,Karthik,Monitor,Electronics,South,5,11306,13426,2120,Divya,Consumer,Delta
+ORD0252,2025-04-27,Vijay,Table,Furniture,South,6,5048,7269,2221,Suresh,Home Office,Beta
+ORD0253,2025-03-19,Ajay,Printer,Office,West,9,36585,48913,12328,Divya,Consumer,Beta
+ORD0254,2025-07-01,Divya,Laptop,Electronics,West,10,22412,31654,9242,Suresh,Consumer,Beta
+ORD0255,2025-06-04,Vijay,Printer,Office,West,1,23942,26645,2703,Divya,Home Office,Alpha
+ORD0256,2025-02-25,Divya,Notebook,Office,South,6,27367,27478,111,Vignesh,Home Office,Gamma
+ORD0257,2025-09-29,Vijay,Laptop,Electronics,West,4,9063,11617,2554,Ravi,Home Office,Delta
+ORD0258,2025-04-24,Asha,Chair,Furniture,South,6,23976,30388,6412,Vignesh,Corporate,Alpha
+ORD0259,2025-10-15,Priya,Table,Furniture,North,2,48331,57875,9544,Suresh,Consumer,Alpha
+ORD0260,2025-05-24,Vijay,Phone,Electronics,South,4,25300,27943,2643,Kiran,Corporate,Gamma
+ORD0261,2025-10-05,Karthik,Chair,Furniture,West,3,27230,33914,6684,Ravi,Home Office,Gamma
+ORD0262,2025-04-16,Vijay,Table,Furniture,West,1,38590,51262,12672,Vignesh,Consumer,Gamma
+ORD0263,2025-10-14,Arun,Laptop,Electronics,East,2,38309,47180,8871,Vignesh,Corporate,Alpha
+ORD0264,2025-07-26,Meena,Chair,Furniture,West,2,17748,22590,4842,Vignesh,Corporate,Beta
+ORD0265,2025-04-17,Meena,Printer,Office,South,10,21383,31341,9958,Suresh,Corporate,Gamma
+ORD0266,2025-10-05,Rahul,Chair,Furniture,North,2,18091,20844,2753,Divya,Home Office,Gamma
+ORD0267,2025-02-06,Priya,Monitor,Electronics,South,4,22123,29351,7228,Ravi,Corporate,Alpha
+ORD0268,2025-03-15,Meena,Notebook,Office,South,5,27389,33864,6475,Suresh,Consumer,Beta
+ORD0269,2025-03-17,Ajay,Phone,Electronics,West,4,27527,33756,6229,Ravi,Home Office,Delta
+ORD0270,2025-07-24,Meena,Table,Furniture,East,3,5887,6531,644,Kiran,Consumer,Delta
+ORD0271,2025-01-21,Ajay,Phone,Electronics,West,2,6054,6382,328,Vignesh,Home Office,Delta
+ORD0272,2025-04-12,Priya,Phone,Electronics,North,10,15353,17979,2626,Divya,Home Office,Gamma
+ORD0273,2025-03-01,Ajay,Phone,Electronics,South,1,27851,37778,9927,Divya,Corporate,Beta
+ORD0274,2025-08-14,Vijay,Table,Furniture,West,1,34901,40230,5329,Divya,Consumer,Delta
+ORD0275,2025-07-26,Sneha,Monitor,Electronics,East,5,36270,40933,4663,Divya,Consumer,Delta
+ORD0276,2025-05-02,Vijay,Phone,Electronics,South,9,7781,11271,3490,Vignesh,Consumer,Delta
+ORD0277,2025-05-14,Meena,Laptop,Electronics,North,2,16444,24310,7866,Suresh,Home Office,Delta
+ORD0278,2025-06-21,Asha,Notebook,Office,North,9,41432,53726,12294,Vignesh,Corporate,Gamma
+ORD0279,2025-03-25,Divya,Chair,Furniture,South,8,39804,53420,13616,Ravi,Consumer,Alpha
+ORD0280,2025-10-30,Ajay,Notebook,Office,East,8,20724,24481,3757,Suresh,Consumer,Gamma
+ORD0281,2025-12-17,Asha,Monitor,Electronics,West,3,13278,19608,6330,Kiran,Corporate,Alpha
+ORD0282,2025-02-10,Priya,Printer,Office,East,3,1548,1865,317,Ravi,Consumer,Delta
+ORD0283,2025-05-12,Rahul,Chair,Furniture,South,4,39380,58277,18897,Divya,Home Office,Beta
+ORD0284,2025-02-26,Sneha,Laptop,Electronics,East,9,30808,33722,2914,Kiran,Home Office,Beta
+ORD0285,2025-04-05,Rahul,Laptop,Electronics,North,4,36373,52742,16369,Kiran,Home Office,Beta
+ORD0286,2025-05-08,Arun,Phone,Electronics,South,10,8876,9662,786,Kiran,Home Office,Delta
+ORD0287,2025-07-12,Ajay,Chair,Furniture,North,6,12159,14068,1909,Suresh,Home Office,Alpha
+ORD0288,2025-08-26,Asha,Printer,Office,North,8,28981,39850,10869,Divya,Corporate,Gamma
+ORD0289,2025-04-06,Divya,Phone,Electronics,South,1,34288,37731,3443,Suresh,Corporate,Delta
+ORD0290,2025-08-31,Meena,Phone,Electronics,West,2,19789,25544,5755,Ravi,Home Office,Delta
+ORD0291,2025-06-26,Arun,Chair,Furniture,South,10,34823,36647,1824,Divya,Home Office,Alpha
+ORD0292,2025-10-06,Karthik,Chair,Furniture,South,3,2293,2834,541,Vignesh,Consumer,Alpha
+ORD0293,2025-03-29,Karthik,Printer,Office,East,10,37396,40506,3110,Vignesh,Corporate,Gamma
+ORD0294,2025-01-13,Divya,Table,Furniture,East,2,43625,44609,984,Suresh,Home Office,Alpha
+ORD0295,2025-09-22,Meena,Printer,Office,East,2,48979,50545,1566,Kiran,Consumer,Delta
+ORD0296,2025-07-14,Arun,Printer,Office,West,5,22153,28312,6159,Kiran,Corporate,Alpha
+ORD0297,2025-12-07,Divya,Notebook,Office,East,10,21303,27428,6125,Vignesh,Home Office,Gamma
+ORD0298,2025-09-07,Karthik,Printer,Office,East,7,35182,44350,9168,Kiran,Corporate,Beta
+ORD0299,2025-12-26,Meena,Table,Furniture,West,8,26124,35779,9655,Suresh,Corporate,Alpha
+ORD0300,2025-09-03,Rahul,Phone,Electronics,East,8,47081,67433,20352,Kiran,Home Office,Gamma
+ORD0301,2025-08-04,Asha,Monitor,Electronics,East,3,12039,12721,682,Vignesh,Corporate,Gamma
+ORD0302,2025-09-30,Divya,Phone,Electronics,West,9,10948,11802,854,Divya,Corporate,Beta
+ORD0303,2025-10-16,Priya,Phone,Electronics,West,4,15483,19296,3813,Ravi,Home Office,Delta
+ORD0304,2025-11-23,Karthik,Notebook,Office,East,7,19605,23186,3581,Divya,Corporate,Gamma
+ORD0305,2025-07-01,Karthik,Notebook,Office,North,2,37271,39941,2670,Vignesh,Consumer,Beta
+ORD0306,2025-11-04,Ajay,Table,Furniture,South,1,30347,42955,12608,Suresh,Home Office,Beta
+ORD0307,2025-01-16,Priya,Printer,Office,North,1,2553,3738,1185,Suresh,Home Office,Beta
+ORD0308,2025-08-08,Vijay,Table,Furniture,South,1,47581,70869,23288,Vignesh,Corporate,Beta
+ORD0309,2025-12-16,Sneha,Laptop,Electronics,West,5,25972,33192,7220,Vignesh,Consumer,Delta
+ORD0310,2025-05-23,Meena,Table,Furniture,North,4,2027,2366,339,Ravi,Corporate,Gamma
+ORD0311,2025-06-19,Meena,Table,Furniture,South,3,44040,50134,6094,Vignesh,Home Office,Gamma
+ORD0312,2025-09-11,Ajay,Table,Furniture,East,3,9604,9863,259,Divya,Corporate,Beta
+ORD0313,2025-03-29,Priya,Chair,Furniture,North,7,49059,63767,14708,Suresh,Home Office,Delta
+ORD0314,2025-08-09,Meena,Monitor,Electronics,South,7,14448,15287,839,Vignesh,Home Office,Delta
+ORD0315,2025-02-06,Meena,Monitor,Electronics,West,10,32186,40737,8551,Kiran,Corporate,Gamma
+ORD0316,2025-02-10,Vijay,Notebook,Office,East,2,43970,57837,13867,Vignesh,Home Office,Delta
+ORD0317,2025-03-07,Priya,Chair,Furniture,West,4,1300,1492,192,Suresh,Corporate,Gamma
+ORD0318,2025-06-18,Ajay,Table,Furniture,North,2,5237,7066,1829,Kiran,Home Office,Gamma
+ORD0319,2025-02-28,Ajay,Table,Furniture,North,5,2914,3297,383,Divya,Consumer,Delta
+ORD0320,2025-11-05,Priya,Notebook,Office,West,7,21073,22462,1389,Kiran,Consumer,Gamma
+ORD0321,2025-03-02,Vijay,Phone,Electronics,North,5,15669,17302,1633,Kiran,Consumer,Delta
+ORD0322,2025-03-19,Priya,Chair,Furniture,North,7,39898,42539,2641,Divya,Corporate,Delta
+ORD0323,2025-09-08,Sneha,Monitor,Electronics,West,2,4760,5974,1214,Suresh,Corporate,Beta
+ORD0324,2025-11-30,Meena,Notebook,Office,South,5,45790,53754,7964,Suresh,Home Office,Alpha
+ORD0325,2025-01-21,Vijay,Laptop,Electronics,South,6,10793,16121,5328,Ravi,Consumer,Delta
+ORD0326,2025-08-25,Arun,Table,Furniture,West,9,34920,48540,13620,Ravi,Home Office,Alpha
+ORD0327,2025-06-14,Vijay,Monitor,Electronics,East,2,29563,32723,3160,Divya,Corporate,Alpha
+ORD0328,2025-10-05,Sneha,Phone,Electronics,West,9,32222,35415,3193,Ravi,Consumer,Delta
+ORD0329,2025-08-06,Ajay,Printer,Office,South,4,12241,17043,4802,Vignesh,Consumer,Gamma
+ORD0330,2025-08-10,Rahul,Chair,Furniture,South,1,43733,57318,13585,Kiran,Corporate,Alpha
+ORD0331,2025-06-28,Sneha,Notebook,Office,West,1,3300,4251,951,Kiran,Consumer,Alpha
+ORD0332,2025-08-29,Karthik,Chair,Furniture,North,1,46423,56505,10082,Suresh,Consumer,Gamma
+ORD0333,2025-05-25,Sneha,Table,Furniture,East,6,17207,17507,300,Suresh,Corporate,Beta
+ORD0334,2025-04-20,Vijay,Chair,Furniture,East,6,16998,22748,5750,Suresh,Corporate,Delta
+ORD0335,2025-07-20,Ajay,Table,Furniture,South,4,7528,8646,1118,Suresh,Home Office,Alpha
+ORD0336,2025-10-22,Ajay,Phone,Electronics,East,9,12748,14433,1685,Vignesh,Corporate,Delta
+ORD0337,2025-06-02,Sneha,Notebook,Office,North,10,21633,27616,5983,Suresh,Consumer,Alpha
+ORD0338,2025-04-18,Ajay,Printer,Office,West,6,4178,4417,239,Ravi,Home Office,Beta
+ORD0339,2025-05-06,Divya,Monitor,Electronics,North,1,45883,53901,8018,Divya,Corporate,Gamma
+ORD0340,2025-01-05,Karthik,Monitor,Electronics,North,9,28327,35239,6912,Ravi,Consumer,Beta
+ORD0341,2025-03-03,Meena,Monitor,Electronics,East,4,46485,49441,2956,Divya,Home Office,Alpha
+ORD0342,2025-04-30,Rahul,Printer,Office,South,5,46405,63026,16621,Ravi,Home Office,Delta
+ORD0343,2025-09-16,Meena,Laptop,Electronics,East,1,30144,42496,12352,Divya,Home Office,Alpha
+ORD0344,2025-02-03,Arun,Printer,Office,South,7,37368,48251,10883,Suresh,Corporate,Beta
+ORD0345,2025-12-05,Ajay,Phone,Electronics,West,4,26745,34290,7545,Kiran,Consumer,Delta
+ORD0346,2025-03-07,Rahul,Table,Furniture,South,10,29491,35692,6201,Ravi,Consumer,Alpha
+ORD0347,2025-03-05,Karthik,Laptop,Electronics,East,3,37434,51421,13987,Kiran,Consumer,Beta
+ORD0348,2025-03-26,Divya,Table,Furniture,East,8,18327,21675,3348,Suresh,Home Office,Alpha
+ORD0349,2025-01-14,Ajay,Phone,Electronics,North,4,11917,14367,2450,Divya,Corporate,Delta
+ORD0350,2025-08-08,Sneha,Table,Furniture,West,1,42231,49641,7410,Divya,Home Office,Alpha
+ORD0351,2025-09-18,Sneha,Printer,Office,West,5,46299,65681,19382,Kiran,Consumer,Beta
+ORD0352,2025-08-10,Karthik,Table,Furniture,North,3,12608,14916,2308,Ravi,Home Office,Alpha
+ORD0353,2025-04-26,Meena,Phone,Electronics,West,2,47140,49524,2384,Divya,Consumer,Gamma
+ORD0354,2025-06-15,Asha,Notebook,Office,West,7,23407,28201,4794,Divya,Corporate,Delta
+ORD0355,2025-12-06,Karthik,Printer,Office,East,8,38164,44435,6271,Vignesh,Consumer,Gamma
+ORD0356,2025-01-31,Karthik,Notebook,Office,North,10,28887,35510,6623,Suresh,Home Office,Gamma
+ORD0357,2025-08-23,Sneha,Printer,Office,East,4,40100,44245,4145,Ravi,Consumer,Gamma
+ORD0358,2025-10-29,Priya,Printer,Office,West,7,45219,63834,18615,Suresh,Home Office,Alpha
+ORD0359,2025-11-10,Ajay,Notebook,Office,South,6,16326,22159,5833,Ravi,Consumer,Delta
+ORD0360,2025-05-21,Ajay,Monitor,Electronics,East,5,29305,34354,5049,Suresh,Corporate,Alpha
+ORD0361,2025-09-18,Priya,Notebook,Office,West,3,10925,13910,2985,Kiran,Home Office,Beta
+ORD0362,2025-02-16,Sneha,Laptop,Electronics,North,2,17695,21763,4068,Vignesh,Consumer,Beta
+ORD0363,2025-03-25,Meena,Notebook,Office,North,10,3059,3666,607,Vignesh,Consumer,Gamma
+ORD0364,2025-08-16,Meena,Laptop,Electronics,North,5,4112,5419,1307,Kiran,Consumer,Delta
+ORD0365,2025-03-12,Divya,Notebook,Office,East,6,1522,2154,632,Suresh,Consumer,Alpha
+ORD0366,2025-04-22,Asha,Monitor,Electronics,South,8,1967,2345,378,Kiran,Corporate,Beta
+ORD0367,2025-09-15,Vijay,Laptop,Electronics,North,6,23215,28823,5608,Ravi,Consumer,Delta
+ORD0368,2025-07-29,Ajay,Monitor,Electronics,North,6,46386,68522,22136,Ravi,Home Office,Alpha
+ORD0369,2025-10-16,Sneha,Notebook,Office,South,2,29950,34850,4900,Vignesh,Corporate,Beta
+ORD0370,2025-10-08,Rahul,Phone,Electronics,North,5,2276,3308,1032,Vignesh,Corporate,Delta
+ORD0371,2025-08-21,Karthik,Notebook,Office,South,7,14277,15622,1345,Vignesh,Home Office,Gamma
+ORD0372,2025-08-01,Priya,Laptop,Electronics,East,6,18444,23466,5022,Divya,Corporate,Beta
+ORD0373,2025-01-31,Karthik,Printer,Office,South,6,29356,43923,14567,Ravi,Corporate,Gamma
+ORD0374,2025-05-02,Vijay,Printer,Office,East,2,43804,52764,8960,Ravi,Home Office,Gamma
+ORD0375,2025-06-18,Vijay,Chair,Furniture,East,6,27154,30811,3657,Vignesh,Corporate,Gamma
+ORD0376,2025-05-12,Divya,Printer,Office,East,2,12319,15297,2978,Suresh,Home Office,Alpha
+ORD0377,2025-11-18,Rahul,Table,Furniture,West,7,20735,23856,3121,Divya,Consumer,Delta
+ORD0378,2025-10-11,Vijay,Chair,Furniture,West,9,16446,20005,3559,Ravi,Home Office,Gamma
+ORD0379,2025-10-18,Ajay,Table,Furniture,East,9,36571,51812,15241,Ravi,Home Office,Gamma
+ORD0380,2025-09-09,Divya,Chair,Furniture,West,1,29176,38419,9243,Kiran,Corporate,Beta
+ORD0381,2025-05-16,Karthik,Table,Furniture,North,10,11226,13729,2503,Kiran,Home Office,Gamma
+ORD0382,2025-11-05,Divya,Monitor,Electronics,East,8,35722,36961,1239,Suresh,Corporate,Beta
+ORD0383,2025-05-03,Rahul,Phone,Electronics,East,2,24904,35639,10735,Kiran,Corporate,Gamma
+ORD0384,2025-10-11,Vijay,Table,Furniture,West,3,49802,60467,10665,Ravi,Corporate,Beta
+ORD0385,2025-04-15,Priya,Table,Furniture,West,6,12665,18530,5865,Kiran,Consumer,Beta
+ORD0386,2025-05-05,Sneha,Notebook,Office,North,2,31265,41144,9879,Divya,Corporate,Gamma
+ORD0387,2025-05-20,Arun,Laptop,Electronics,East,1,31481,39600,8119,Divya,Consumer,Gamma
+ORD0388,2025-06-06,Priya,Notebook,Office,North,7,25604,29697,4093,Suresh,Home Office,Alpha
+ORD0389,2025-12-01,Divya,Laptop,Electronics,North,2,21564,25462,3898,Divya,Corporate,Alpha
+ORD0390,2025-11-02,Priya,Notebook,Office,South,7,15852,22861,7009,Ravi,Consumer,Alpha
+ORD0391,2025-03-21,Meena,Notebook,Office,North,1,9846,11985,2139,Vignesh,Home Office,Gamma
+ORD0392,2025-07-09,Asha,Laptop,Electronics,West,2,38012,48940,10928,Ravi,Corporate,Beta
+ORD0393,2025-12-31,Meena,Chair,Furniture,South,5,34246,38571,4325,Kiran,Home Office,Delta
+ORD0394,2025-04-08,Divya,Printer,Office,East,5,21613,23300,1687,Vignesh,Corporate,Beta
+ORD0395,2025-04-03,Ajay,Chair,Furniture,West,3,14618,16349,1731,Vignesh,Consumer,Gamma
+ORD0396,2025-03-31,Asha,Notebook,Office,West,10,24438,30024,5586,Kiran,Corporate,Delta
+ORD0397,2025-04-28,Rahul,Laptop,Electronics,West,5,41245,48208,6963,Divya,Home Office,Gamma
+ORD0398,2025-09-30,Arun,Phone,Electronics,West,7,9789,10033,244,Suresh,Consumer,Gamma
+ORD0399,2025-03-17,Arun,Chair,Furniture,North,4,44462,49061,4599,Kiran,Consumer,Beta
+ORD0400,2025-03-26,Rahul,Chair,Furniture,West,6,19497,24721,5224,Vignesh,Corporate,Beta
+ORD0401,2025-05-28,Karthik,Chair,Furniture,West,10,13578,20046,6468,Vignesh,Corporate,Alpha
+ORD0402,2025-09-18,Ajay,Phone,Electronics,West,10,19779,21014,1235,Divya,Consumer,Gamma
+ORD0403,2025-01-27,Sneha,Phone,Electronics,West,8,6624,7914,1290,Kiran,Consumer,Gamma
+ORD0404,2025-03-04,Sneha,Notebook,Office,West,7,2685,3875,1190,Vignesh,Home Office,Alpha
+ORD0405,2025-01-04,Vijay,Chair,Furniture,East,9,30175,44174,13999,Ravi,Consumer,Alpha
+ORD0406,2025-11-28,Asha,Printer,Office,East,10,14203,15926,1723,Ravi,Home Office,Alpha
+ORD0407,2025-07-24,Priya,Phone,Electronics,North,7,37205,51320,14115,Vignesh,Corporate,Alpha
+ORD0408,2025-10-13,Ajay,Printer,Office,South,1,34170,35410,1240,Suresh,Corporate,Gamma
+ORD0409,2025-06-13,Priya,Table,Furniture,North,1,12870,18157,5287,Ravi,Home Office,Gamma
+ORD0410,2025-01-10,Karthik,Printer,Office,West,7,32375,46052,13677,Vignesh,Home Office,Gamma
+ORD0411,2025-07-09,Vijay,Phone,Electronics,South,2,33212,40306,7094,Ravi,Corporate,Gamma
+ORD0412,2025-09-03,Vijay,Table,Furniture,West,2,8638,11632,2994,Kiran,Corporate,Gamma
+ORD0413,2025-05-17,Karthik,Monitor,Electronics,West,8,37204,53857,16653,Kiran,Consumer,Beta
+ORD0414,2025-04-15,Meena,Laptop,Electronics,West,8,9609,10848,1239,Kiran,Corporate,Delta
+ORD0415,2025-05-16,Vijay,Monitor,Electronics,South,1,44885,47987,3102,Divya,Corporate,Beta
+ORD0416,2025-01-08,Arun,Notebook,Office,West,7,16440,20991,4551,Ravi,Corporate,Gamma
+ORD0417,2025-03-16,Meena,Table,Furniture,North,9,1852,2151,299,Vignesh,Corporate,Gamma
+ORD0418,2025-08-07,Asha,Laptop,Electronics,West,6,15127,16825,1698,Suresh,Consumer,Beta
+ORD0419,2025-02-24,Priya,Table,Furniture,South,4,2584,3795,1211,Vignesh,Consumer,Alpha
+ORD0420,2025-07-29,Karthik,Chair,Furniture,North,1,11188,14981,3793,Divya,Corporate,Gamma
+ORD0421,2025-01-07,Priya,Phone,Electronics,West,7,48234,59001,10767,Kiran,Home Office,Alpha
+ORD0422,2025-12-02,Rahul,Table,Furniture,North,2,47851,62592,14741,Vignesh,Consumer,Alpha
+ORD0423,2025-07-13,Priya,Monitor,Electronics,South,6,10410,15507,5097,Divya,Home Office,Gamma
+ORD0424,2025-01-01,Ajay,Laptop,Electronics,North,1,11357,15305,3948,Divya,Corporate,Beta
+ORD0425,2025-04-03,Ajay,Monitor,Electronics,East,4,3639,4668,1029,Ravi,Corporate,Alpha
+ORD0426,2025-08-17,Karthik,Chair,Furniture,North,1,16426,19735,3309,Divya,Corporate,Beta
+ORD0427,2025-01-01,Rahul,Table,Furniture,East,1,7245,8763,1518,Suresh,Consumer,Delta
+ORD0428,2025-11-03,Priya,Table,Furniture,South,6,44886,55898,11012,Kiran,Home Office,Gamma
+ORD0429,2025-09-29,Vijay,Laptop,Electronics,East,9,990,1103,113,Kiran,Corporate,Alpha
+ORD0430,2025-07-31,Priya,Table,Furniture,East,4,33020,42796,9776,Kiran,Corporate,Gamma
+ORD0431,2025-09-12,Rahul,Notebook,Office,South,6,40768,45843,5075,Vignesh,Home Office,Alpha
+ORD0432,2025-12-05,Asha,Laptop,Electronics,North,6,9465,9750,285,Vignesh,Corporate,Alpha
+ORD0433,2025-10-07,Priya,Table,Furniture,West,1,18038,24243,6205,Kiran,Consumer,Delta
+ORD0434,2025-06-07,Ajay,Chair,Furniture,South,3,9995,12107,2112,Ravi,Corporate,Delta
+ORD0435,2025-08-18,Sneha,Printer,Office,West,10,38158,45760,7602,Kiran,Corporate,Beta
+ORD0436,2025-12-27,Divya,Chair,Furniture,East,5,40861,43912,3051,Suresh,Home Office,Alpha
+ORD0437,2025-04-25,Karthik,Monitor,Electronics,West,3,18458,25683,7225,Divya,Consumer,Gamma
+ORD0438,2025-02-14,Meena,Notebook,Office,South,2,2417,2684,267,Divya,Consumer,Gamma
+ORD0439,2025-02-08,Arun,Notebook,Office,East,3,10752,15819,5067,Kiran,Corporate,Beta
+ORD0440,2025-05-28,Rahul,Table,Furniture,West,5,8566,8914,348,Ravi,Consumer,Gamma
+ORD0441,2025-02-17,Priya,Table,Furniture,West,2,18055,26456,8401,Suresh,Corporate,Beta
+ORD0442,2025-04-11,Ajay,Printer,Office,North,5,27466,35167,7701,Vignesh,Consumer,Alpha
+ORD0443,2025-12-16,Priya,Chair,Furniture,East,1,16060,22407,6347,Kiran,Corporate,Alpha
+ORD0444,2025-07-06,Ajay,Notebook,Office,East,3,6664,7165,501,Suresh,Corporate,Gamma
+ORD0445,2025-10-09,Sneha,Laptop,Electronics,North,1,44558,45075,517,Suresh,Corporate,Gamma
+ORD0446,2025-04-11,Meena,Printer,Office,North,10,22885,23127,242,Divya,Consumer,Beta
+ORD0447,2025-10-27,Sneha,Printer,Office,North,5,48283,49058,775,Divya,Corporate,Gamma
+ORD0448,2025-06-30,Karthik,Laptop,Electronics,South,6,27497,36235,8738,Ravi,Corporate,Gamma
+ORD0449,2025-03-20,Arun,Chair,Furniture,North,7,23982,30867,6885,Kiran,Consumer,Alpha
+ORD0450,2025-07-29,Asha,Phone,Electronics,North,9,43325,60252,16927,Divya,Corporate,Gamma
+ORD0451,2025-02-13,Karthik,Phone,Electronics,West,4,11916,15445,3529,Kiran,Home Office,Alpha
+ORD0452,2025-01-07,Rahul,Monitor,Electronics,West,8,19012,20352,1340,Vignesh,Consumer,Beta
+ORD0453,2025-06-30,Priya,Laptop,Electronics,South,8,27659,31920,4261,Suresh,Consumer,Delta
+ORD0454,2025-04-18,Rahul,Phone,Electronics,South,7,16460,17506,1046,Kiran,Home Office,Alpha
+ORD0455,2025-03-18,Ajay,Laptop,Electronics,North,3,38758,55876,17118,Suresh,Consumer,Delta
+ORD0456,2025-03-22,Sneha,Chair,Furniture,North,5,48865,51016,2151,Ravi,Home Office,Delta
+ORD0457,2025-11-15,Asha,Table,Furniture,North,9,4749,6216,1467,Suresh,Corporate,Beta
+ORD0458,2025-06-24,Meena,Chair,Furniture,South,8,36234,42485,6251,Divya,Consumer,Alpha
+ORD0459,2025-08-09,Karthik,Laptop,Electronics,East,3,2779,4048,1269,Divya,Corporate,Delta
+ORD0460,2025-12-02,Karthik,Laptop,Electronics,East,7,36263,50032,13769,Kiran,Consumer,Delta
+ORD0461,2025-12-03,Vijay,Notebook,Office,North,5,15748,23522,7774,Divya,Corporate,Beta
+ORD0462,2025-05-24,Rahul,Chair,Furniture,South,6,49099,55271,6172,Vignesh,Corporate,Alpha
+ORD0463,2025-02-24,Karthik,Chair,Furniture,South,6,14824,18991,4167,Divya,Home Office,Delta
+ORD0464,2025-06-06,Divya,Chair,Furniture,South,4,1618,2054,436,Ravi,Consumer,Alpha
+ORD0465,2025-02-16,Meena,Chair,Furniture,North,5,6430,7394,964,Divya,Consumer,Delta
+ORD0466,2025-12-14,Karthik,Laptop,Electronics,North,3,15419,19374,3955,Divya,Corporate,Alpha
+ORD0467,2025-10-30,Arun,Table,Furniture,West,8,27965,33482,5517,Suresh,Home Office,Gamma
+ORD0468,2025-09-01,Divya,Laptop,Electronics,South,3,8069,11748,3679,Kiran,Consumer,Delta
+ORD0469,2025-11-26,Asha,Phone,Electronics,East,2,23855,31909,8054,Kiran,Consumer,Delta
+ORD0470,2025-05-24,Vijay,Table,Furniture,South,5,26844,28132,1288,Suresh,Corporate,Alpha
+ORD0471,2025-02-19,Ajay,Phone,Electronics,South,9,46402,48565,2163,Divya,Consumer,Beta
+ORD0472,2025-05-08,Priya,Phone,Electronics,North,4,6979,7858,879,Suresh,Corporate,Delta
+ORD0473,2025-03-26,Arun,Laptop,Electronics,West,9,45472,59686,14214,Ravi,Home Office,Alpha
+ORD0474,2025-12-12,Ajay,Phone,Electronics,South,8,43371,50628,7257,Kiran,Corporate,Beta
+ORD0475,2025-11-26,Sneha,Monitor,Electronics,East,3,768,1020,252,Vignesh,Home Office,Gamma
+ORD0476,2025-06-05,Rahul,Table,Furniture,East,6,39608,58876,19268,Ravi,Home Office,Gamma
+ORD0477,2025-08-26,Karthik,Printer,Office,North,3,6127,7161,1034,Ravi,Consumer,Alpha
+ORD0478,2025-06-12,Meena,Table,Furniture,South,6,39805,49867,10062,Divya,Home Office,Gamma
+ORD0479,2025-01-23,Asha,Notebook,Office,South,10,11154,15973,4819,Ravi,Consumer,Delta
+ORD0480,2025-08-02,Priya,Table,Furniture,North,1,30917,39978,9061,Kiran,Consumer,Alpha
+ORD0481,2025-09-15,Meena,Laptop,Electronics,East,10,40991,50369,9378,Vignesh,Consumer,Alpha
+ORD0482,2025-09-13,Asha,Notebook,Office,East,7,34563,47396,12833,Divya,Corporate,Alpha
+ORD0483,2025-01-24,Divya,Monitor,Electronics,North,5,39197,54123,14926,Divya,Home Office,Gamma
+ORD0484,2025-04-28,Sneha,Laptop,Electronics,West,10,8342,11864,3522,Divya,Home Office,Gamma
+ORD0485,2025-09-18,Asha,Laptop,Electronics,West,8,12410,13577,1167,Vignesh,Home Office,Alpha
+ORD0486,2025-10-08,Divya,Laptop,Electronics,South,9,41156,51240,10084,Divya,Corporate,Delta
+ORD0487,2025-10-04,Karthik,Notebook,Office,North,4,6750,8701,1951,Ravi,Consumer,Gamma
+ORD0488,2025-08-01,Asha,Chair,Furniture,South,5,6456,9433,2977,Suresh,Home Office,Delta
+ORD0489,2025-12-14,Sneha,Chair,Furniture,South,5,30906,44781,13875,Ravi,Home Office,Delta
+ORD0490,2025-05-07,Ajay,Chair,Furniture,West,8,33089,40842,7753,Kiran,Corporate,Alpha
+ORD0491,2025-12-18,Priya,Monitor,Electronics,East,4,10900,13000,2100,Kiran,Corporate,Gamma
+ORD0492,2025-10-20,Sneha,Phone,Electronics,North,3,31552,35735,4183,Ravi,Consumer,Beta
+ORD0493,2025-02-18,Vijay,Table,Furniture,North,1,15849,20784,4935,Divya,Home Office,Gamma
+ORD0494,2025-09-01,Karthik,Chair,Furniture,West,2,17107,22414,5307,Ravi,Consumer,Beta
+ORD0495,2025-08-29,Vijay,Phone,Electronics,West,5,25846,30482,4636,Suresh,Home Office,Alpha
+ORD0496,2025-04-19,Divya,Laptop,Electronics,West,6,4065,5325,1260,Divya,Home Office,Alpha
+ORD0497,2025-11-14,Meena,Chair,Furniture,North,10,20606,22361,1755,Vignesh,Corporate,Delta
+ORD0498,2025-08-31,Meena,Table,Furniture,East,8,13396,14560,1164,Divya,Home Office,Alpha
+ORD0499,2025-11-01,Karthik,Phone,Electronics,West,7,34653,50561,15908,Kiran,Consumer,Delta
+ORD0500,2025-10-01,Ajay,Table,Furniture,West,9,43625,60226,16601,Divya,Consumer,Alpha
